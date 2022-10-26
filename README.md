@@ -1,5 +1,5 @@
 # GPC-Swift
-Swift wrapper for the [https://github.com/rickbrew/GeneralPolygonClipper](GeneralPolygonClipper)
+Swift wrapper for the [GeneralPolygonClipper](https://github.com/rickbrew/GeneralPolygonClipper)
 
 ## Example
 
