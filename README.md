@@ -13,7 +13,7 @@ GPC-Swift is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'GPC-Swift'
+pod 'GPC-Swift', :git => 'https://github.com/nikit6000/GPC-Swift.git'
 ```
 
 ## License
