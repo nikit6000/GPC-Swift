@@ -47,8 +47,6 @@ extension CGPath {
 
 // MARK: - Constants
 
-// MARK: - Constants
-
 private extension CGPath {
 	
 	enum Constants {
