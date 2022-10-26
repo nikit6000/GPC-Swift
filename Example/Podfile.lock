@@ -1,0 +1,16 @@
+PODS:
+  - GPC-Swift (0.1.0)
+
+DEPENDENCIES:
+  - GPC-Swift (from `../`)
+
+EXTERNAL SOURCES:
+  GPC-Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GPC-Swift: bcdde8f5881733ec65c98f51d73b4ac7b02d2870
+
+PODFILE CHECKSUM: 5db5c3c154593ffabaac85b82e9ba529816285be
+
+COCOAPODS: 1.11.2
