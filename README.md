@@ -1,4 +1,5 @@
 # GPC-Swift
+Swift wrapper for the [https://github.com/rickbrew/GeneralPolygonClipper](GeneralPolygonClipper)
 
 [![CI Status](https://img.shields.io/travis/Nikita/GPC-Swift.svg?style=flat)](https://travis-ci.org/Nikita/GPC-Swift)
 [![Version](https://img.shields.io/cocoapods/v/GPC-Swift.svg?style=flat)](https://cocoapods.org/pods/GPC-Swift)
